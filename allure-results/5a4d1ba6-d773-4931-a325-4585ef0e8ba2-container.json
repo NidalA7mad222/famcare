@@ -1,0 +1,1 @@
+{"uuid":"5a4d1ba6-d773-4931-a325-4585ef0e8ba2","name":"app.famcare.base.BaseTest.setUp","children":["29f66a2f-4ca1-487b-8471-c0a3764ba9a5"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1695282276146,"stop":1695282277443}],"afters":[],"start":1695282276146,"stop":1695282277443}
